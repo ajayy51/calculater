@@ -1,0 +1,57 @@
+@media only screen and (max-width: 768px){}
+body{
+	background-color: #778899;
+}
+#input1{
+	max-width: 600px;
+	height: 40px;
+	width: 450px;
+	margin: 0px auto 0px auto;
+	border: solid;
+	margin: 5px;
+	font-size: 20px;
+	border-radius: 5px;
+	box-shadow: 5px 5px;
+}
+#display{
+	font-size: 40px;
+	height: 40px;
+	width: 300px;
+	border: solid;
+	margin: 4px;
+	font-size: 35px ;
+	border-radius: 5px;
+	background-color: white;
+	box-shadow: 5px 5px;
+}
+#result{
+	height: 30px;
+	width: 80px;
+	border: solid;
+}
+#result:hover{
+	background-color: #6495ed;
+	cursor: pointer;
+}
+#result:active{
+	background-color: #7cfc00;
+}
+section{
+	padding-top: 150px;
+}
+h1{
+	font-size: 40px;
+	text-decoration: underline;
+}
+span{
+	font-size: 25px;
+}
+code{
+	font-size: 15px;
+	font: bold;
+}
+#creater{
+	position: relative;
+	left: 500px;
+	top: 100px;
+}
